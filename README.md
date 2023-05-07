@@ -16,13 +16,13 @@ You can basically start the prompt by typing a very few words about your product
 Starting prompt:
 
 ```text
-المنتج الجديد الذي ابتكرته هو
+اتاي
 ```
 
 Generated ad:
 
 ```text
-المنتج الجديد الذي ابتكرته هو مجموعة من الأدوات الجديدة ال�
+! اتااااااااي
 ```
 
 ## Limitations
