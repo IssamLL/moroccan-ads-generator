@@ -9,7 +9,7 @@ The dataset was built using web scraping techniques.
 ## How to Use
 
 Suppose you are an entrepreneur, who just came up with a brand new product, and you want to advertize it in Morocco. You want to generate an ad for your product, but you don't know how to write it, that's where our model comes in handy.  
-You can basically start the prompt by typing a very few words about your product, and the nodel will try to generate a well written script, that is as relevant as possible to your target customers.
+You can basically start the prompt by typing a very few words about your product, and the model will try to generate a well written script, that is as relevant as possible to your target customers.
 
 ## Demo
 
