@@ -64,7 +64,7 @@ pip install -r requirements.txt
 The authors that have contributed to this project are:
 
 - [Yasir Ech-Chammakhy](https://github.com/yasirech-chammakhy)
-- [Issam Ech-Chaoui](https://github.com/IssamECH-CHAOUI)
+- [Mohamed NIJADI](https://github.com/gurennnn)
 
 This is the project that my team and I participated in, during the Hackathon organized by 1337 School, and sponsored by the [1337 School](https://www.um6p.ma/en/ecole-1337), huge thanks to them for this opportunity.
 
