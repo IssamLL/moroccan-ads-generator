@@ -59,6 +59,33 @@ pip install -r requirements.txt
 - Pandas
 ...
 
+# DarijaBERTGenAD Model
+
+This repository contains the pre-trained DarijaBERTGenAD model, which is based on the BERT architecture and fine-tuned for Darija, a North African Arabic dialect.
+
+## Hugging Face Model Repository
+
+You can access the pre-trained model and use it in your NLP projects through the Hugging Face model repository. Here is the link to the model:
+
+[Link to DarijaBERTGenAD on Hugging Face](https://huggingface.co/IssamL/darijabertgenad)
+
+## Usage
+
+To use this model in your code, you can leverage the Hugging Face Transformers library. Here's an example of how to load the model in Python:
+
+```python
+from transformers import AutoModel, AutoTokenizer
+
+# Load the tokenizer and model
+model_name = "IssamL/darijabertgenad"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModel.from_pretrained(model_name)
+
+# Use the model for your NLP tasks
+```
+
+
+
 ## Aknowledgements
 
 The authors that have contributed to this project are:
