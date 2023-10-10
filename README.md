@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, we are trying to solve an NLP task, which is generating Moroccan ads.  
+In this project, we are trying to solve an NLP task, which is generating Moroccan ads in Darija.  
 In order to achieve this goal, we decided it would be better to use a pretrained model, build a dataset that is suitable to our task, and then fine-tune the model on this dataset. The pretrained model we decided to work on is the [araGPT 2](https://huggingface.co/aubmindlab/aragpt2-base) model, which is used for Arabic text generation.  
 The dataset was built using web scraping techniques.
 
