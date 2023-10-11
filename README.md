@@ -45,7 +45,8 @@ pip install -r requirements.txt
 
 ## Packages Used
 
-- Python (notebooks)
+- Transformers
+- Python
 - BeautifulSoup
 - Selenium
 - Pandas
